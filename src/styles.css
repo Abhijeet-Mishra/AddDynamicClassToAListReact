@@ -1,7 +1,19 @@
 .App {
   font-family: sans-serif;
-  //text-align: center;
 }
 .active {
   color: red;
+}
+
+.parent {
+  height: 200px;
+  width: 200px;
+  border: 1px solid black;
+}
+
+.child {
+  transform: translate(50%, 50%);
+  border: 1px solid red;
+  width: 100px;
+  height: 100px;
 }
