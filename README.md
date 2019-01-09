@@ -1,2 +1,0 @@
-# AddDynamicClassToAListReact
-Created with CodeSandbox
